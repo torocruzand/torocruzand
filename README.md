@@ -35,6 +35,6 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 
 ***Web***: http://ferruslogic.com/
 
-***Organización***: @FerrusLogic
+***Organización***: [@FerrusLogic](https://github.com/Ferruslogic/)
 
 ***Correo***: torocruzand@gmail.com
