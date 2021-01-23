@@ -1,16 +1,42 @@
-### Hi there 👋
+# ¡Hola!
 
-<!--
-**torocruzand/torocruzand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Licenciado en **Educación** *(Matemática-Física)* y un desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia como desarrollador.
 
-Here are some ideas to get you started:
+La tecnología que más empleo es LiveCode, que me apasiona por lo simple y poderoso que es. Siendo LiveCode una de las puertas por la que entre a este maravilloso mundo del desarrollo de aplicaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Tecnologías con las que he trabajado:
+
+- LiveCode ⚡
+
+- WordPress
+- PHPBB
+- RealDraw
+- Multimedia Bilder
+- Mediator
+- Net Core
+- Vue JS
+- Angular CLI
+- CodeIgniter
+- OMP PKP
+- OJS PKP
+
+ 
+
+## Lenguajes
+
+- LiveCode Script 
+- JavaScript
+- HTML5
+- CSS3
+- PHP
+- C#
+
+## Contacto
+
+***Web***: ww.ferruslogic.com
+
+***Organización***: @FerrusLogic
+
+***Correo***: torocruzand@gmail.com
