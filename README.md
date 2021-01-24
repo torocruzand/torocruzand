@@ -1,10 +1,10 @@
+<img src="logo-torocruzand-r.svg" style="zoom:50%;" />
+
 # ¡Hola!
 
-Soy desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia como desarrollador.
+Soy desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia.
 
-La tecnología que más empleo es LiveCode, que me apasiona por lo simple y poderoso que es. Siendo este una de las puertas por la que entre a este maravilloso mundo del desarrollo de aplicaciones.
-
-
+La tecnología que más empleo es LiveCode, que me apasiona, por lo simple y poderoso que es. 
 
 ## Tecnologías con las que he trabajado:
 
@@ -15,7 +15,7 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 - Multimedia Bilder
 - Mediator
 - Net Core
-- Vue JS
+- VueJS
 - Angular CLI
 - CodeIgniter
 - OMP PKP
@@ -26,6 +26,7 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 
 - LiveCode Script 
 - JavaScript
+- TypeScript
 - HTML5
 - CSS3
 - PHP
@@ -35,6 +36,7 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 
 ***Web***: https://ferruslogic.com/
 
-***Organización***: [@FerrusLogic](https://github.com/Ferruslogic/)
+***Organization***: [@FerrusLogic](https://github.com/Ferruslogic/)
 
-***Correo***: torocruzand@gmail.com
+***Mail ***: torocruzand@gmail.com
+
