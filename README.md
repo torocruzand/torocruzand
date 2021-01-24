@@ -1,3 +1,5 @@
+<img src="logo-torocruzand-r.svg" style="zoom:50%;" />
+
 # ¡Hola!
 
 Soy desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia como desarrollador.
