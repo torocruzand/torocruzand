@@ -1,15 +1,14 @@
 # ¡Hola!
 
-Soy un Licenciado en **Educación** *(Matemática-Física)* y un desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia como desarrollador.
+Soy desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia como desarrollador.
 
-La tecnología que más empleo es LiveCode, que me apasiona por lo simple y poderoso que es. Siendo LiveCode una de las puertas por la que entre a este maravilloso mundo del desarrollo de aplicaciones.
+La tecnología que más empleo es LiveCode, que me apasiona por lo simple y poderoso que es. Siendo este una de las puertas por la que entre a este maravilloso mundo del desarrollo de aplicaciones.
 
 
 
 ## Tecnologías con las que he trabajado:
 
-- LiveCode ⚡
-
+- LiveCode  ✨ 
 - WordPress
 - PHPBB
 - RealDraw
@@ -22,7 +21,6 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 - OMP PKP
 - OJS PKP
 
- 
 
 ## Lenguajes
 
@@ -35,8 +33,8 @@ La tecnología que más empleo es LiveCode, que me apasiona por lo simple y pode
 
 ## Contacto
 
-***Web***: ww.ferruslogic.com
+***Web***: https://ferruslogic.com/
 
-***Organización***: @FerrusLogic
+***Organización***: [@FerrusLogic](https://github.com/Ferruslogic/)
 
 ***Correo***: torocruzand@gmail.com
