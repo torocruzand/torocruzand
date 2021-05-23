@@ -28,10 +28,12 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 - LiveCode Script 
 - JavaScript
+- TypeScript
 - HTML5
 - CSS3
 - PHP
 - C#
+- Markdown
 
 ## Contacto
 
