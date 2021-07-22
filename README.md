@@ -1,12 +1,14 @@
 <img src="logo-torocruzand-r.svg" style="zoom:50%;" />
 
-# ¡Hola!
+# Hello!
 
-Soy desarrollador de software **autodidacta**, que está enamorado de lo que hace. Con más de 10 años de experiencia.
+I am a freelance software developer, who is in love with what he does. With more than 10 years of experience in creating multi-platform applications and web pages.
 
-La tecnología que más empleo es LiveCode, que me apasiona, por lo simple y poderoso que es. 
+The technology I use the most is LiveCode, which I am passionate about because of how simple and powerful it is.
 
-## Tecnologías con las que he trabajado:
+
+
+## Technologies I have worked with:
 
 - LiveCode  ✨ 
 - WordPress
@@ -15,7 +17,7 @@ La tecnología que más empleo es LiveCode, que me apasiona, por lo simple y pod
 - Multimedia Bilder
 - Mediator
 - Net Core
-- VueJS
+- Vue JS
 - Angular CLI
 - CodeIgniter
 - OMP PKP
@@ -31,6 +33,7 @@ La tecnología que más empleo es LiveCode, que me apasiona, por lo simple y pod
 - CSS3
 - PHP
 - C#
+- Markdown
 
 ## Contacto
 
