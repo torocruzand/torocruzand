@@ -41,5 +41,5 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ***Organization***: [@FerrusLogic](https://github.com/Ferruslogic/)
 
-***Mail ***: torocruzand@gmail.com
+***Mail***: torocruzand@gmail.com
 
