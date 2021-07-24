@@ -43,3 +43,5 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ***Mail***: torocruzand@gmail.com
 
+***telegram***:https://t.me/torocruzand
+
