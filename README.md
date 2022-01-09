@@ -22,11 +22,15 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - CodeIgniter
 - OMP PKP
 - OJS PKP
+- GitHub
+- Git
+- SmartGit
 
 
 ## Lenguajes
 
-- LiveCode Script
+- LiveCode Script 
+- LiveCode Builder  
 - JavaScript
 - TypeScript
 - HTML5
