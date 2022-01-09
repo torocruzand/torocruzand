@@ -10,7 +10,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ## Technologies I have worked with:
 
-- LiveCode  ✨ 
+- LiveCode  ✨
 - WordPress
 - PHPBB
 - RealDraw
@@ -26,7 +26,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ## Lenguajes
 
-- LiveCode Script 
+- LiveCode Script
 - JavaScript
 - TypeScript
 - HTML5
@@ -34,6 +34,10 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - PHP
 - C#
 - Markdown
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=torocruzand&show_icons=true&hide_border=true)
 
 ## Contacto
 
