@@ -41,7 +41,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=torocruzand&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=torocruzand&show_icons=true&hide_border=true&theme=radical)
 
 ## Contacto
 
