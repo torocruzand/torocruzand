@@ -43,6 +43,9 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=torocruzand&show_icons=true&hide_border=true&theme=radical)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torocruzand&layout=compact&theme=radical)](https://github.com/torocruzand/github-readme-stats)
+
 ## Contacto
 
 ***Web***: https://ferruslogic.com/
