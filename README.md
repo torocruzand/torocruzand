@@ -38,6 +38,8 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - PHP
 - C#
 - Markdown
+- C
+- C++
 
 
 ## Contacto
