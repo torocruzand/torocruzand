@@ -18,6 +18,8 @@ I am a freelance software developer, who is in love with what he does. With more
 The technology I use the most is LiveCode, which I am passionate about because of how simple and powerful it is.
 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Technologies I have worked with:
 
@@ -40,8 +42,8 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ## Lenguajes
 
-- LiveCode Script 
-- LiveCode Builder  
+- LiveCode Script
+- LiveCode Builder
 - JavaScript
 - TypeScript
 - HTML5
@@ -61,5 +63,5 @@ The technology I use the most is LiveCode, which I am passionate about because o
 
 ***Mail***: torocruzand@gmail.com
 
-***telegram***:https://t.me/torocruzand
+***telegram***: https://t.me/torocruzand
 
