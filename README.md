@@ -1,4 +1,15 @@
-<img src="logo-torocruzand-r.svg" style="zoom:50%;" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=torocruzand&style=flat-square&color=blue" alt=""/>
+    <br/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="logo-torocruzand-r.svg" style="zoom:50%;" />
+</div>
+
+<hr/>
 
 # Hello!
 
