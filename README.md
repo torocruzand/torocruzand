@@ -55,7 +55,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - C++
 
 
-## Contacto
+## Contact
 
 ***Web***: https://ferruslogic.com/
 
