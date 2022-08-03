@@ -16,12 +16,16 @@
 I am a freelance software developer, who is in love with what he does. With more than 10 years of experience in creating multi-platform applications and web pages.
 
 The technology I use the most is LiveCode, which I am passionate about because of how simple and powerful it is.
+<br/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" >
+</div>
+<br/>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torocruzand&theme=gotham&show_icons=true)
 
 
 ## Technologies I have worked with:
@@ -56,6 +60,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - Markdown
 - C
 - C++
+
 
 
 ## Contact
