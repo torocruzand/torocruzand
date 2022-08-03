@@ -21,6 +21,9 @@ The technology I use the most is LiveCode, which I am passionate about because o
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torocruzand&theme=gotham&show_icons=true)
+
+
 ## Technologies I have worked with:
 
 - LiveCode  ✨
