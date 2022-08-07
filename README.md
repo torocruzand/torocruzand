@@ -15,7 +15,12 @@
 
 I am a freelance software developer, who is in love with what he does. With more than 10 years of experience in creating multi-platform applications and web pages.
 
+![J4v](https://user-images.githubusercontent.com/37944516/183309327-d2308d35-6b0b-4345-a08b-317395bb80aa.gif)
+
 The technology I use the most is LiveCode, which I am passionate about because of how simple and powerful it is.
+
+![7Cff](https://user-images.githubusercontent.com/37944516/183309350-bb6e2a46-7391-4d67-a529-f7218aa89a22.gif)
+<hr/>
 <br/>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" >
@@ -27,6 +32,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 <br/>
 
 
+<hr/>
 
 ## Technologies I have worked with:
 
@@ -46,6 +52,7 @@ The technology I use the most is LiveCode, which I am passionate about because o
 - Git
 - SmartGit
 
+<hr/>
 
 ## Lenguajes
 
