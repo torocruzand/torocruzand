@@ -19,17 +19,13 @@ I am a freelance software developer, who is in love with what he does. With more
 
 The technology I use the most is [LiveCode](https://livecode.com/), which I am passionate about because of how simple and powerful it is.
 
-![7Cff](https://user-images.githubusercontent.com/37944516/183309350-bb6e2a46-7391-4d67-a529-f7218aa89a22.gif)
-<hr/>
-<br/>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" >
-</div>
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" > 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=torocruzand&&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
 
 <hr/>
