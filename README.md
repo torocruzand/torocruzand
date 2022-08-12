@@ -68,10 +68,6 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 
 ## Contact
 
-***Web***: https://ferruslogic.com/
-
-***Organization***: [@FerrusLogic](https://github.com/Ferruslogic/)
-
 ***Mail***: torocruzand@gmail.com
 
 ***telegram***: https://t.me/torocruzand
