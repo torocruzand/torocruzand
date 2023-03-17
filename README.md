@@ -63,12 +63,4 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 - Markdown
 - C
 - C++
-
-
-
-## Contact
-
-***Mail***: torocruzand@gmail.com
-
-***telegram***: https://t.me/torocruzand
-
+- SQL
