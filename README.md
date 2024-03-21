@@ -64,3 +64,5 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 - C
 - C++
 - SQL
+
+> ***"Any sufficiently advanced technology is indistinguishable from magic. For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. I just invent, then wait until man comes around to needing what I've invented."*** –Arthur C. Clarke
