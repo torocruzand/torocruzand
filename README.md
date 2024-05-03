@@ -13,7 +13,7 @@
 
 # Hello!
 
-I am a freelance software developer, who is in love with what he does. With more than 10 years of experience in creating multi-platform applications and web pages.
+I am a software developer, who is in love with what he does. With more than 10 years of experience in creating multi-platform applications and web pages.
 
 ![J4v](https://user-images.githubusercontent.com/37944516/183309327-d2308d35-6b0b-4345-a08b-317395bb80aa.gif)
 
