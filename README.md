@@ -23,7 +23,6 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" > 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torocruzand&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torocruzand&&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
