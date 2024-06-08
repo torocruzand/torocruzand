@@ -19,16 +19,6 @@ I am a software developer, who is in love with what he does. With more than 10 y
 
 The technology I use the most is [LiveCode](https://livecode.com/), which I am passionate about because of how simple and powerful it is.
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=torocruzand&theme=gotham" > 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=torocruzand&&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-
-
-<hr/>
-
 ## Technologies I have worked with:
 
 - LiveCode  ✨
