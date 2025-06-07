@@ -57,4 +57,4 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 - SQL
 
 ## Portfolio
-[https://torocruzand.com/](https://torocruzand.com/)
+<a href="https://www.torocruzand.com" target="_blank">Visit torocruzand.com!</a>
