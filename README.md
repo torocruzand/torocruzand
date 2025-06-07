@@ -1,6 +1,8 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=torocruzand&style=flat-square&color=blue" alt=""/>
-    <br/>
+  <a href="https://torocruzand.com/">
+    <img src="https://komarev.com/ghpvc/?username=torocruzand&style=flat-square&color=blue" alt=""/>
+  </a>
+  <br/>
 </div>
 
 <hr/>
@@ -53,4 +55,5 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 - C
 - C++
 - SQL
-
+  
+[https://torocruzand.com/](https://torocruzand.com/)
