@@ -56,5 +56,6 @@ The technology I use the most is [LiveCode](https://livecode.com/), which I am p
 - C++
 - SQL
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torocruzand&hide_progress=true)
 ## Portfolio
 <a href="https://www.torocruzand.com" target="_blank">Visit torocruzand.com!</a>
