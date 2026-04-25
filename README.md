@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a software developer with over **12 years** building multi-platform applications and web experiences. My specialty is [LiveCode](https://livecode.com/) — a technology I'm passionate about for its unique blend of simplicity and power. I enjoy crafting solutions that are clean, maintainable, and genuinely useful.
+I'm a software developer with over **12 years** building multi-platform applications and web experiences. My specialty is [LiveCode](https://livecode.com/) — a technology I'm passionate about for its unique blend of simplicity and power. More recently, I've been expanding into **Rust**, **Flutter**, and **AI-assisted development**, embracing the tools that are shaping the next generation of software.
 
 ![J4v](https://user-images.githubusercontent.com/37944516/183309327-d2308d35-6b0b-4345-a08b-317395bb80aa.gif)
 
@@ -33,11 +33,18 @@ I'm a software developer with over **12 years** building multi-platform applicat
 | Category | Tools |
 |---|---|
 | **Specialty** | LiveCode, LiveCode Builder |
+| **Exploring** | Rust, Flutter, AI-assisted development |
 | **Frontend** | Vue.js, Angular CLI, HTML5, CSS3, JavaScript, TypeScript |
 | **Backend** | CodeIgniter, Net Core, PHP, C#, C, C++ |
 | **CMS / Platforms** | WordPress, PHPBB, OMP PKP, OJS PKP |
 | **Design Tools** | RealDraw, Multimedia Bilder, Mediator |
 | **Version Control** | Git, GitHub, SmartGit |
+
+---
+
+## 🤖 AI-Assisted Development
+
+I integrate AI tools into my workflow to write better code faster, automate repetitive tasks, and explore solutions more creatively. For me, AI is not a replacement — it's a force multiplier for a developer with a solid foundation.
 
 ---
 
