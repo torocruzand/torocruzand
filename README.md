@@ -10,7 +10,7 @@
   <h1>Andrés del Toro Cruz</h1>
   
   <p>
-    <strong>Software Developer &nbsp;·&nbsp; 12+ Years of Experience</strong>
+    <strong>Software Developer &nbsp;·&nbsp; 14 Years of Experience</strong>
   </p>
 
   <p>
