@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a software developer with over **12 years** building multi-platform applications and web experiences. My specialty is [LiveCode](https://livecode.com/) — a technology I'm passionate about for its unique blend of simplicity and power. More recently, I've been expanding into **Rust**, **Flutter**, and **AI-assisted development**, embracing the tools that are shaping the next generation of software.
+I'm a software developer with over **14 years** building multi-platform applications and web experiences. My specialty is [LiveCode](https://livecode.com/) — a technology I'm passionate about for its unique blend of simplicity and power. More recently, I've been expanding into **Rust**, **Flutter**, and **AI-assisted development**, embracing the tools that are shaping the next generation of software.
 
 ![J4v](https://user-images.githubusercontent.com/37944516/183309327-d2308d35-6b0b-4345-a08b-317395bb80aa.gif)
 
